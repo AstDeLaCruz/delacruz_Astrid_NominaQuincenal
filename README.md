@@ -1,10 +1,16 @@
 # NominaQuincenal
 **Estudiante:** Astrid Carolina De La Cruz De La Cruz
+
 **Matrícula:** 2026-1718
+
 **Universidad:** Universidad Central del Este (UCE)
+
 **Asignatura:** Programación Básica
+
 **Lenguaje:** C#
+
 **Entorno:** Visual Studio
+
 **Tecnología:** Windows Forms
 
 ##  Descripción
