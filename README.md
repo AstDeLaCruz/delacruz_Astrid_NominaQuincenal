@@ -111,3 +111,5 @@ El programa utiliza las siguientes operaciones:
 
 ### 5. Validación de horas
 ![horas](Capturas/horas.png)
+
+ //las capturas de pantalla se encuentran en la carpeta "Capturas" dentro del proyecto.
